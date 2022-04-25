@@ -6,7 +6,7 @@ Recorded in UAD Apollo Solo / 44.1 khz / 24 Bit / Mono / 2 304 WAV Files / 130.9
 Each instrument has 128 slightly different pitch, spreading on 1 octave, all have been recorded directly from the machine using the pitch parameter.
 
 | Instrument | Description | Default pitch number |
-| --- | --- | --- |
+| --- | --- |:---:|
 | Tom 1 | Hi tom | 032 |
 | Tom 2 | Middle tom | 032 |
 | Tom 3 | Low tom | 096 |
