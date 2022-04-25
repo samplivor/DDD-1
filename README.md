@@ -10,7 +10,7 @@ Each instrument has 128 slightly different pitch, spreading on 1 octave, all hav
 | Tom 1 | Hi tom | 032 |
 | Tom 2 | Middle tom | 032 |
 | Tom 3 | Low tom | 096 |
-| Ride | Ride Cymbal | 000 |
+| Ride | Ride cymbal | 000 |
 | Crash | Crash cymbal | 000 |
 | Claps | Hand claps | 064 |
 | Tambourine | Tambourine | 000 |
