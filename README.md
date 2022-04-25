@@ -3,7 +3,7 @@
 # DDD-1
 Recorded in UAD Apollo Solo / 44.1 khz / 24 Bit / Mono / 2 304 WAV Files / 130.9 MB Zip
 
-Instruments list (each one has 128 slightly different pitch, spreading on 1 octave, who have been recorded directly from the machine using the pitch parameter) :
+Each instrument has 128 slightly different pitch, spreading on 1 octave, all have been recorded directly from the machine using the pitch parameter.
 
 | Instrument | Description | Default pitch number |
 | --- | --- | --- |
