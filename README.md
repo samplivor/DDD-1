@@ -1,4 +1,6 @@
-[Download](https://bit.ly/38pWADL)
+### These samples are free but your support is always welcome!
+
+[Download](https://bit.ly/39hEyUD) | [Name your own price](https://www.paypal.com/donate/?hosted_button_id=ASWDQ37Y4XFCQ)
 
 # DDD-1
 Recorded in UAD Apollo Solo / 44.1 khz / 24 Bit / Mono / 2 304 WAV Files / 130.9 MB Zip
